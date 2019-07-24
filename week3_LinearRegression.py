@@ -1,3 +1,5 @@
+““loss值减到一定值就不在减小，这个值不是很小，有时是个位数甚至更大，什么原因造成的？””
+
 # Linear Regression
 import numpy as np
 import random
